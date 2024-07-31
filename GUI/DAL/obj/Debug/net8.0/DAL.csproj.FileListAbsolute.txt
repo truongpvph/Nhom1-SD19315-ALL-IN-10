@@ -1,0 +1,16 @@
+D:\Truong\Nhom1-SD19315-ALL-IN-10\GUI\DAL\bin\Debug\net8.0\DAL.deps.json
+D:\Truong\Nhom1-SD19315-ALL-IN-10\GUI\DAL\bin\Debug\net8.0\DAL.dll
+D:\Truong\Nhom1-SD19315-ALL-IN-10\GUI\DAL\bin\Debug\net8.0\DAL.pdb
+D:\Truong\Nhom1-SD19315-ALL-IN-10\GUI\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Truong\Nhom1-SD19315-ALL-IN-10\GUI\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+D:\Truong\Nhom1-SD19315-ALL-IN-10\GUI\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+D:\Truong\Nhom1-SD19315-ALL-IN-10\GUI\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+D:\Truong\Nhom1-SD19315-ALL-IN-10\GUI\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+D:\Truong\Nhom1-SD19315-ALL-IN-10\GUI\DAL\obj\Debug\net8.0\DAL.dll
+D:\Truong\Nhom1-SD19315-ALL-IN-10\GUI\DAL\obj\Debug\net8.0\refint\DAL.dll
+D:\Truong\Nhom1-SD19315-ALL-IN-10\GUI\DAL\obj\Debug\net8.0\DAL.pdb
+D:\Truong\Nhom1-SD19315-ALL-IN-10\GUI\DAL\obj\Debug\net8.0\ref\DAL.dll
+D:\Truong\Nhom1-SD19315-ALL-IN-10\GUI\DAL\bin\Debug\net8.0\DTO.dll
+D:\Truong\Nhom1-SD19315-ALL-IN-10\GUI\DAL\bin\Debug\net8.0\DTO.pdb
+D:\Truong\Nhom1-SD19315-ALL-IN-10\GUI\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+D:\Truong\Nhom1-SD19315-ALL-IN-10\GUI\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date

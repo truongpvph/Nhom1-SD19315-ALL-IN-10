@@ -34,11 +34,11 @@
             groupBox1 = new GroupBox();
             label6 = new Label();
             groupBox2 = new GroupBox();
+            button1 = new Button();
             cbbmavaitro = new ComboBox();
             txtsocccd = new TextBox();
             label4 = new Label();
             btnhienthi = new Button();
-            btnxoa = new Button();
             dateNgaySinh = new DateTimePicker();
             btnsua = new Button();
             btnthem = new Button();
@@ -66,6 +66,7 @@
             txtTimKiem.PlaceholderText = "Tìm kiếm theo tên nhân viên ";
             txtTimKiem.Size = new Size(417, 27);
             txtTimKiem.TabIndex = 130;
+            txtTimKiem.TextChanged += txtTimKiem_TextChanged;
             // 
             // label8
             // 
@@ -88,6 +89,8 @@
             dgvtaikhoannv.RowHeadersWidth = 51;
             dgvtaikhoannv.Size = new Size(712, 516);
             dgvtaikhoannv.TabIndex = 112;
+            dgvtaikhoannv.CellClick += dgvtaikhoannv_CellClick;
+            dgvtaikhoannv.CellContentClick += dgvtaikhoannv_CellContentClick;
             // 
             // groupBox1
             // 
@@ -113,12 +116,12 @@
             // 
             // groupBox2
             // 
+            groupBox2.Controls.Add(button1);
             groupBox2.Controls.Add(cbbmavaitro);
             groupBox2.Controls.Add(txtsocccd);
             groupBox2.Controls.Add(label4);
             groupBox2.Controls.Add(label6);
             groupBox2.Controls.Add(btnhienthi);
-            groupBox2.Controls.Add(btnxoa);
             groupBox2.Controls.Add(dateNgaySinh);
             groupBox2.Controls.Add(btnsua);
             groupBox2.Controls.Add(btnthem);
@@ -139,6 +142,18 @@
             groupBox2.TabIndex = 136;
             groupBox2.TabStop = false;
             groupBox2.Text = "Thông Tin Tài Khoản";
+            // 
+            // button1
+            // 
+            button1.BackColor = Color.FromArgb(255, 192, 128);
+            button1.Font = new Font("Segoe UI", 9F, FontStyle.Bold);
+            button1.Location = new Point(500, 557);
+            button1.Name = "button1";
+            button1.Size = new Size(94, 29);
+            button1.TabIndex = 155;
+            button1.Text = "Clear";
+            button1.UseVisualStyleBackColor = false;
+            button1.Click += button1_Click;
             // 
             // cbbmavaitro
             // 
@@ -175,17 +190,7 @@
             btnhienthi.TabIndex = 151;
             btnhienthi.Text = "Hiển Thị";
             btnhienthi.UseVisualStyleBackColor = false;
-            // 
-            // btnxoa
-            // 
-            btnxoa.BackColor = Color.FromArgb(255, 192, 128);
-            btnxoa.Font = new Font("Segoe UI", 9F, FontStyle.Bold);
-            btnxoa.Location = new Point(494, 557);
-            btnxoa.Name = "btnxoa";
-            btnxoa.Size = new Size(94, 29);
-            btnxoa.TabIndex = 150;
-            btnxoa.Text = "Xóa";
-            btnxoa.UseVisualStyleBackColor = false;
+            btnhienthi.Click += btnhienthi_Click;
             // 
             // dateNgaySinh
             // 
@@ -204,6 +209,7 @@
             btnsua.TabIndex = 148;
             btnsua.Text = "Sửa";
             btnsua.UseVisualStyleBackColor = false;
+            btnsua.Click += btnsua_Click;
             // 
             // btnthem
             // 
@@ -215,6 +221,7 @@
             btnthem.TabIndex = 147;
             btnthem.Text = "Thêm";
             btnthem.UseVisualStyleBackColor = false;
+            btnthem.Click += btnthem_Click;
             // 
             // txtMatKhau
             // 
@@ -246,6 +253,7 @@
             // 
             // txtMaTaiKhoan
             // 
+            txtMaTaiKhoan.Enabled = false;
             txtMaTaiKhoan.Location = new Point(194, 26);
             txtMaTaiKhoan.Name = "txtMaTaiKhoan";
             txtMaTaiKhoan.Size = new Size(457, 27);
@@ -338,7 +346,6 @@
         private TextBox txtsocccd;
         private Label label4;
         private Button btnhienthi;
-        private Button btnxoa;
         private DateTimePicker dateNgaySinh;
         private Button btnsua;
         private Button btnthem;
@@ -354,5 +361,6 @@
         private Label label3;
         private Label label2;
         private Label label1;
+        private Button button1;
     }
 }

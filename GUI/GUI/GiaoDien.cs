@@ -1,7 +1,10 @@
-﻿namespace GUI
+﻿using BLL;
+
+namespace GUI
 {
     public partial class GiaoDien : Form
     {
+        DangnhapBLL BLLDangNha = new DangnhapBLL();
         public GiaoDien()
         {
             InitializeComponent();
@@ -15,18 +18,18 @@
         }
         private void GiaoDien_Load(object sender, EventArgs e)
         {
-            //đăngXuấtToolStripMenuItem.Enabled = false;
-            //đăngNhậpToolStripMenuItem.Enabled = true;
-            //quảnLýTàiKhoảnToolStripMenuItem.Enabled = false;
-            //quảnLýSáchToolStripMenuItem.Enabled = false;
-            //quảnToolStripMenuItem.Enabled = false;
-            //lậpPhiếuMượnToolStripMenuItem.Enabled = false;
-            //chiTiếtMượnTrảSáchToolStripMenuItem.Enabled = false;
-            //quảnLýĐộcGiảToolStripMenuItem.Enabled = false;
-            //quảnLýTácGiảToolStripMenuItem.Enabled = false;
-            //quảnLýThểLoạiToolStripMenuItem.Enabled = false;
-            //quảnLýThểLoạiToolStripMenuItem.Enabled = false;
-            //quảnLýNhàXuấtBảnToolStripMenuItem.Enabled = false;
+            đăngXuấtToolStripMenuItem.Enabled = false;
+            đăngNhậpToolStripMenuItem.Enabled = true;
+            quảnLýTàiKhoảnToolStripMenuItem.Enabled = false;
+            quảnLýSáchToolStripMenuItem.Enabled = false;
+            quảnToolStripMenuItem.Enabled = false;
+            lậpPhiếuMượnToolStripMenuItem.Enabled = false;
+            chiTiếtMượnTrảSáchToolStripMenuItem.Enabled = false;
+            quảnLýĐộcGiảToolStripMenuItem.Enabled = false;
+            quảnLýTácGiảToolStripMenuItem.Enabled = false;
+            quảnLýThểLoạiToolStripMenuItem.Enabled = false;
+            quảnLýThểLoạiToolStripMenuItem.Enabled = false;
+            quảnLýNhàXuấtBảnToolStripMenuItem.Enabled = false;
         }
 
         private void heToolStripMenuItem_Click(object sender, EventArgs e)
@@ -49,38 +52,38 @@
         {
             DangNhap dangNhap = new DangNhap();
             dangNhap.ShowDialog();
-            //var taikhoan = dangnhap.a;
-            //var matkau = dangnhap.b;
-            //if (BLLDangNha.Dangnhap(taikhoan, matkau))
-            //{
-            //    đăngXuấtToolStripMenuItem.Enabled = true;
-            //    đăngNhậpToolStripMenuItem.Enabled = false;
-            //    quảnLýTàiKhoảnToolStripMenuItem.Enabled = true;
-            //    quảnLýSáchToolStripMenuItem.Enabled = true;
-            //    quảnToolStripMenuItem.Enabled = true;
-            //    lậpPhiếuMượnToolStripMenuItem.Enabled = true;
-            //    chiTiếtMượnTrảSáchToolStripMenuItem.Enabled = true;
-            //    quảnLýĐộcGiảToolStripMenuItem.Enabled = true;
-            //    quảnLýTácGiảToolStripMenuItem.Enabled = true;
-            //    quảnLýThểLoạiToolStripMenuItem.Enabled = true;
-            //    quảnLýThểLoạiToolStripMenuItem.Enabled = true;
-            //    quảnLýNhàXuấtBảnToolStripMenuItem.Enabled = true;
-            //}
-            //else if (BLLDangNha.dangnhapnv(taikhoan, matkau))
-            //{
-            //    đăngXuấtToolStripMenuItem.Enabled = true;
-            //    đăngNhậpToolStripMenuItem.Enabled = false;
-            //    quảnLýTàiKhoảnToolStripMenuItem.Enabled = false;
-            //    quảnLýSáchToolStripMenuItem.Enabled = true;
-            //    quảnToolStripMenuItem.Enabled = true;
-            //    lậpPhiếuMượnToolStripMenuItem.Enabled = true;
-            //    chiTiếtMượnTrảSáchToolStripMenuItem.Enabled = true;
-            //    quảnLýĐộcGiảToolStripMenuItem.Enabled = true;
-            //    quảnLýTácGiảToolStripMenuItem.Enabled = true;
-            //    quảnLýThểLoạiToolStripMenuItem.Enabled = true;
-            //    quảnLýThểLoạiToolStripMenuItem.Enabled = true;
-            //    quảnLýNhàXuấtBảnToolStripMenuItem.Enabled = true;
-            //}
+            var taikhoan = dangNhap.a;
+            var matkau = dangNhap.b;
+            if (BLLDangNha.Dangnhap(taikhoan, matkau))
+            {
+                đăngXuấtToolStripMenuItem.Enabled = true;
+                đăngNhậpToolStripMenuItem.Enabled = false;
+                quảnLýTàiKhoảnToolStripMenuItem.Enabled = true;
+                quảnLýSáchToolStripMenuItem.Enabled = true;
+                quảnToolStripMenuItem.Enabled = true;
+                lậpPhiếuMượnToolStripMenuItem.Enabled = true;
+                chiTiếtMượnTrảSáchToolStripMenuItem.Enabled = true;
+                quảnLýĐộcGiảToolStripMenuItem.Enabled = true;
+                quảnLýTácGiảToolStripMenuItem.Enabled = true;
+                quảnLýThểLoạiToolStripMenuItem.Enabled = true;
+                quảnLýThểLoạiToolStripMenuItem.Enabled = true;
+                quảnLýNhàXuấtBảnToolStripMenuItem.Enabled = true;
+            }
+            else if (BLLDangNha.dangnhapnv(taikhoan, matkau))
+            {
+                đăngXuấtToolStripMenuItem.Enabled = true;
+                đăngNhậpToolStripMenuItem.Enabled = false;
+                quảnLýTàiKhoảnToolStripMenuItem.Enabled = false;
+                quảnLýSáchToolStripMenuItem.Enabled = true;
+                quảnToolStripMenuItem.Enabled = true;
+                lậpPhiếuMượnToolStripMenuItem.Enabled = true;
+                chiTiếtMượnTrảSáchToolStripMenuItem.Enabled = true;
+                quảnLýĐộcGiảToolStripMenuItem.Enabled = true;
+                quảnLýTácGiảToolStripMenuItem.Enabled = true;
+                quảnLýThểLoạiToolStripMenuItem.Enabled = true;
+                quảnLýThểLoạiToolStripMenuItem.Enabled = true;
+                quảnLýNhàXuấtBảnToolStripMenuItem.Enabled = true;
+            }
         }
 
         private void đăngXuấtToolStripMenuItem_Click(object sender, EventArgs e)

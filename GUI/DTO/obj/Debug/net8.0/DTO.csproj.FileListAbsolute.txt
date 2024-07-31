@@ -1,0 +1,15 @@
+D:\Truong\Nhom1-SD19315-ALL-IN-10\GUI\DTO\bin\Debug\net8.0\DTO.deps.json
+D:\Truong\Nhom1-SD19315-ALL-IN-10\GUI\DTO\bin\Debug\net8.0\DTO.runtimeconfig.json
+D:\Truong\Nhom1-SD19315-ALL-IN-10\GUI\DTO\bin\Debug\net8.0\DTO.dll
+D:\Truong\Nhom1-SD19315-ALL-IN-10\GUI\DTO\bin\Debug\net8.0\DTO.pdb
+D:\Truong\Nhom1-SD19315-ALL-IN-10\GUI\DTO\obj\Debug\net8.0\DTO.csproj.AssemblyReference.cache
+D:\Truong\Nhom1-SD19315-ALL-IN-10\GUI\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Truong\Nhom1-SD19315-ALL-IN-10\GUI\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+D:\Truong\Nhom1-SD19315-ALL-IN-10\GUI\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+D:\Truong\Nhom1-SD19315-ALL-IN-10\GUI\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+D:\Truong\Nhom1-SD19315-ALL-IN-10\GUI\DTO\obj\Debug\net8.0\DTO.sourcelink.json
+D:\Truong\Nhom1-SD19315-ALL-IN-10\GUI\DTO\obj\Debug\net8.0\DTO.dll
+D:\Truong\Nhom1-SD19315-ALL-IN-10\GUI\DTO\obj\Debug\net8.0\refint\DTO.dll
+D:\Truong\Nhom1-SD19315-ALL-IN-10\GUI\DTO\obj\Debug\net8.0\DTO.pdb
+D:\Truong\Nhom1-SD19315-ALL-IN-10\GUI\DTO\obj\Debug\net8.0\DTO.genruntimeconfig.cache
+D:\Truong\Nhom1-SD19315-ALL-IN-10\GUI\DTO\obj\Debug\net8.0\ref\DTO.dll

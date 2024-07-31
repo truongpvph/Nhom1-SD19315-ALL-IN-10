@@ -1,0 +1,21 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/GUI/GUI.sln
+/GUI/GUI.sln
+/GUI/DTO/Models/ChiTietPhieuMuon.cs
+/GUI/DTO/Models/DocGium.cs
+/GUI/DTO/Models/NhaXuatBan.cs
+/GUI/DTO/Models/PhieuMuon.cs
+/GUI/DTO/Models/QuanLyDuAnNhom1Sd19315Context.cs
+/GUI/DTO/Models/Sach.cs
+/GUI/DTO/Models/TacGium.cs
+/GUI/DTO/Models/TaiKhoan.cs
+/GUI/DTO/Models/TheLoai.cs
+/GUI/DTO/Models/VaiTro.cs
+/GUI/GUI/QuanLyDocGia.cs
+/GUI/GUI/QuanLyNhaXuatBan.cs
+/GUI/GUI/QuanLySach.cs
+/GUI/GUI/QuanLyTacGia.cs
+/GUI/GUI/QuanLyTheLoai.cs

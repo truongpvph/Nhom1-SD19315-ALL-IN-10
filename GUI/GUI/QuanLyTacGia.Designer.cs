@@ -40,6 +40,7 @@
             label3 = new Label();
             label2 = new Label();
             groupBox1 = new GroupBox();
+            button1 = new Button();
             groupBox2 = new GroupBox();
             dataGridView1 = new DataGridView();
             txtTimKiem = new TextBox();
@@ -71,34 +72,37 @@
             // 
             btnhienthi.BackColor = Color.FromArgb(255, 128, 128);
             btnhienthi.Font = new Font("Segoe UI", 9F, FontStyle.Bold);
-            btnhienthi.Location = new Point(93, 436);
+            btnhienthi.Location = new Point(36, 436);
             btnhienthi.Name = "btnhienthi";
             btnhienthi.Size = new Size(94, 29);
             btnhienthi.TabIndex = 126;
             btnhienthi.Text = "Hiển Thị";
             btnhienthi.UseVisualStyleBackColor = false;
+            btnhienthi.Click += btnhienthi_Click;
             // 
             // btnsua
             // 
             btnsua.BackColor = Color.FromArgb(255, 192, 128);
             btnsua.Font = new Font("Segoe UI", 9F, FontStyle.Bold);
-            btnsua.Location = new Point(543, 436);
+            btnsua.Location = new Point(374, 436);
             btnsua.Name = "btnsua";
             btnsua.Size = new Size(94, 29);
             btnsua.TabIndex = 123;
             btnsua.Text = "Sửa";
             btnsua.UseVisualStyleBackColor = false;
+            btnsua.Click += btnsua_Click;
             // 
             // btnthem
             // 
             btnthem.BackColor = Color.FromArgb(255, 192, 128);
             btnthem.Font = new Font("Segoe UI", 9F, FontStyle.Bold);
-            btnthem.Location = new Point(321, 436);
+            btnthem.Location = new Point(208, 436);
             btnthem.Name = "btnthem";
             btnthem.Size = new Size(94, 29);
             btnthem.TabIndex = 122;
             btnthem.Text = "Thêm";
             btnthem.UseVisualStyleBackColor = false;
+            btnthem.Click += btnthem_Click;
             // 
             // txtquoctich
             // 
@@ -116,6 +120,7 @@
             // 
             // txtmatacgia
             // 
+            txtmatacgia.Enabled = false;
             txtmatacgia.Location = new Point(109, 52);
             txtmatacgia.Name = "txtmatacgia";
             txtmatacgia.Size = new Size(531, 27);
@@ -153,6 +158,7 @@
             // 
             // groupBox1
             // 
+            groupBox1.Controls.Add(button1);
             groupBox1.Controls.Add(txtmatacgia);
             groupBox1.Controls.Add(btnhienthi);
             groupBox1.Controls.Add(cbbgioitinh);
@@ -164,12 +170,24 @@
             groupBox1.Controls.Add(label6);
             groupBox1.Controls.Add(txtHoTen);
             groupBox1.Controls.Add(txtquoctich);
-            groupBox1.Location = new Point(14, 13);
+            groupBox1.Location = new Point(14, 29);
             groupBox1.Name = "groupBox1";
-            groupBox1.Size = new Size(725, 602);
+            groupBox1.Size = new Size(725, 586);
             groupBox1.TabIndex = 129;
             groupBox1.TabStop = false;
             groupBox1.Text = "Thông Tin Tác Giả";
+            // 
+            // button1
+            // 
+            button1.BackColor = Color.FromArgb(255, 192, 128);
+            button1.Font = new Font("Segoe UI", 9F, FontStyle.Bold);
+            button1.Location = new Point(546, 436);
+            button1.Name = "button1";
+            button1.Size = new Size(94, 29);
+            button1.TabIndex = 129;
+            button1.Text = "Clear";
+            button1.UseVisualStyleBackColor = false;
+            button1.Click += button1_Click;
             // 
             // groupBox2
             // 
@@ -185,12 +203,14 @@
             // 
             // dataGridView1
             // 
+            dataGridView1.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
             dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dataGridView1.Location = new Point(18, 94);
             dataGridView1.Name = "dataGridView1";
             dataGridView1.RowHeadersWidth = 51;
             dataGridView1.Size = new Size(682, 486);
             dataGridView1.TabIndex = 127;
+            dataGridView1.CellClick += dataGridView1_CellClick;
             // 
             // txtTimKiem
             // 
@@ -199,6 +219,7 @@
             txtTimKiem.PlaceholderText = "Tìm Kiếm Theo tên Tác giả ";
             txtTimKiem.Size = new Size(422, 27);
             txtTimKiem.TabIndex = 114;
+            txtTimKiem.TextChanged += txtTimKiem_TextChanged;
             // 
             // label8
             // 
@@ -246,5 +267,6 @@
         private TextBox txtTimKiem;
         private Label label8;
         private DataGridView dataGridView1;
+        private Button button1;
     }
 }
