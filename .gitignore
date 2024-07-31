@@ -19,3 +19,6 @@
 /GUI/GUI/QuanLySach.cs
 /GUI/GUI/QuanLyTacGia.cs
 /GUI/GUI/QuanLyTheLoai.cs
+/GUI/DTO/DTO.csproj
+/GUI/GUI/LapPhieuMuon.cs
+/GUI/GUI/ChiTietMuon-Tra.cs
