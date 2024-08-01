@@ -14,3 +14,19 @@ C:\visual\Dự án 1 SU24\DA1\Nhom1-SD19315-ALL-IN-10\GUI\DAL\bin\Debug\net8.0\D
 C:\visual\Dự án 1 SU24\DA1\Nhom1-SD19315-ALL-IN-10\GUI\DAL\bin\Debug\net8.0\DTO.pdb
 C:\visual\Dự án 1 SU24\DA1\Nhom1-SD19315-ALL-IN-10\GUI\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
 C:\visual\Dự án 1 SU24\DA1\Nhom1-SD19315-ALL-IN-10\GUI\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+C:\visual\Dự án 1 SU24\DA1\Thư mục mới\Nhom1-SD19315-ALL-IN-10\GUI\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\visual\Dự án 1 SU24\DA1\Thư mục mới\Nhom1-SD19315-ALL-IN-10\GUI\DAL\bin\Debug\net8.0\DAL.dll
+C:\visual\Dự án 1 SU24\DA1\Thư mục mới\Nhom1-SD19315-ALL-IN-10\GUI\DAL\bin\Debug\net8.0\DAL.pdb
+C:\visual\Dự án 1 SU24\DA1\Thư mục mới\Nhom1-SD19315-ALL-IN-10\GUI\DAL\bin\Debug\net8.0\DTO.dll
+C:\visual\Dự án 1 SU24\DA1\Thư mục mới\Nhom1-SD19315-ALL-IN-10\GUI\DAL\bin\Debug\net8.0\DTO.pdb
+C:\visual\Dự án 1 SU24\DA1\Thư mục mới\Nhom1-SD19315-ALL-IN-10\GUI\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\visual\Dự án 1 SU24\DA1\Thư mục mới\Nhom1-SD19315-ALL-IN-10\GUI\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\visual\Dự án 1 SU24\DA1\Thư mục mới\Nhom1-SD19315-ALL-IN-10\GUI\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\visual\Dự án 1 SU24\DA1\Thư mục mới\Nhom1-SD19315-ALL-IN-10\GUI\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\visual\Dự án 1 SU24\DA1\Thư mục mới\Nhom1-SD19315-ALL-IN-10\GUI\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\visual\Dự án 1 SU24\DA1\Thư mục mới\Nhom1-SD19315-ALL-IN-10\GUI\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+C:\visual\Dự án 1 SU24\DA1\Thư mục mới\Nhom1-SD19315-ALL-IN-10\GUI\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+C:\visual\Dự án 1 SU24\DA1\Thư mục mới\Nhom1-SD19315-ALL-IN-10\GUI\DAL\obj\Debug\net8.0\DAL.dll
+C:\visual\Dự án 1 SU24\DA1\Thư mục mới\Nhom1-SD19315-ALL-IN-10\GUI\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\visual\Dự án 1 SU24\DA1\Thư mục mới\Nhom1-SD19315-ALL-IN-10\GUI\DAL\obj\Debug\net8.0\DAL.pdb
+C:\visual\Dự án 1 SU24\DA1\Thư mục mới\Nhom1-SD19315-ALL-IN-10\GUI\DAL\obj\Debug\net8.0\ref\DAL.dll

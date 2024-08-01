@@ -2942,11 +2942,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\visual\\Dự án 1 SU24\\DA1\\Nhom1-SD19315-ALL-IN-10\\GUI\\GUI\\GUI.csproj",
+      "projectUniqueName": "C:\\visual\\Dự án 1 SU24\\DA1\\Thư mục mới\\Nhom1-SD19315-ALL-IN-10\\GUI\\GUI\\GUI.csproj",
       "projectName": "GUI",
-      "projectPath": "C:\\visual\\Dự án 1 SU24\\DA1\\Nhom1-SD19315-ALL-IN-10\\GUI\\GUI\\GUI.csproj",
+      "projectPath": "C:\\visual\\Dự án 1 SU24\\DA1\\Thư mục mới\\Nhom1-SD19315-ALL-IN-10\\GUI\\GUI\\GUI.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\visual\\Dự án 1 SU24\\DA1\\Nhom1-SD19315-ALL-IN-10\\GUI\\GUI\\obj\\",
+      "outputPath": "C:\\visual\\Dự án 1 SU24\\DA1\\Thư mục mới\\Nhom1-SD19315-ALL-IN-10\\GUI\\GUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2968,8 +2968,8 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\visual\\Dự án 1 SU24\\DA1\\Nhom1-SD19315-ALL-IN-10\\GUI\\BLL\\BLL.csproj": {
-              "projectPath": "C:\\visual\\Dự án 1 SU24\\DA1\\Nhom1-SD19315-ALL-IN-10\\GUI\\BLL\\BLL.csproj"
+            "C:\\visual\\Dự án 1 SU24\\DA1\\Thư mục mới\\Nhom1-SD19315-ALL-IN-10\\GUI\\BLL\\BLL.csproj": {
+              "projectPath": "C:\\visual\\Dự án 1 SU24\\DA1\\Thư mục mới\\Nhom1-SD19315-ALL-IN-10\\GUI\\BLL\\BLL.csproj"
             }
           }
         }

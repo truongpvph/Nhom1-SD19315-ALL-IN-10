@@ -1,21 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\visual\\D\u1EF1 \u00E1n 1 SU24\\DA1\\Nhom1-SD19315-ALL-IN-10\\GUI\\",
+  "WorkspaceRootPath": "C:\\visual\\D\u1EF1 \u00E1n 1 SU24\\DA1\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Nhom1-SD19315-ALL-IN-10\\GUI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8286CA3A-5B9F-4C10-8D02-7B1FF3B7B86E}|GUI\\GUI.csproj|c:\\visual\\d\u1EF1 \u00E1n 1 su24\\da1\\nhom1-sd19315-all-in-10\\gui\\gui\\quanlysach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8286CA3A-5B9F-4C10-8D02-7B1FF3B7B86E}|GUI\\GUI.csproj|solutionrelative:gui\\quanlysach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8286CA3A-5B9F-4C10-8D02-7B1FF3B7B86E}|GUI\\GUI.csproj|c:\\visual\\d\u1EF1 \u00E1n 1 su24\\da1\\th\u01B0 mu\u0323c m\u01A1\u0301i\\nhom1-sd19315-all-in-10\\gui\\gui\\lapphieumuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8286CA3A-5B9F-4C10-8D02-7B1FF3B7B86E}|GUI\\GUI.csproj|solutionrelative:gui\\lapphieumuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1675A9BA-090E-4870-B1F8-B22DD356ECE3}|BLL\\BLL.csproj|c:\\visual\\d\u1EF1 \u00E1n 1 su24\\da1\\nhom1-sd19315-all-in-10\\gui\\bll\\bllquanlysach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1675A9BA-090E-4870-B1F8-B22DD356ECE3}|BLL\\BLL.csproj|solutionrelative:bll\\bllquanlysach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8286CA3A-5B9F-4C10-8D02-7B1FF3B7B86E}|GUI\\GUI.csproj|C:\\visual\\D\u1EF1 \u00E1n 1 SU24\\DA1\\Nhom1-SD19315-ALL-IN-10\\GUI\\gui\\quanlysach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8286CA3A-5B9F-4C10-8D02-7B1FF3B7B86E}|GUI\\GUI.csproj|C:\\visual\\D\u1EF1 \u00E1n 1 SU24\\DA1\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Nhom1-SD19315-ALL-IN-10\\GUI\\gui\\quanlysach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8286CA3A-5B9F-4C10-8D02-7B1FF3B7B86E}|GUI\\GUI.csproj|solutionrelative:gui\\quanlysach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8187E3E-6BED-4161-8724-517A83516A4F}|DAL\\DAL.csproj|c:\\visual\\d\u1EF1 \u00E1n 1 su24\\da1\\nhom1-sd19315-all-in-10\\gui\\dal\\dalquanlysach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8286CA3A-5B9F-4C10-8D02-7B1FF3B7B86E}|GUI\\GUI.csproj|c:\\visual\\d\u1EF1 \u00E1n 1 su24\\da1\\th\u01B0 mu\u0323c m\u01A1\u0301i\\nhom1-sd19315-all-in-10\\gui\\gui\\quanlysach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8286CA3A-5B9F-4C10-8D02-7B1FF3B7B86E}|GUI\\GUI.csproj|solutionrelative:gui\\quanlysach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1675A9BA-090E-4870-B1F8-B22DD356ECE3}|BLL\\BLL.csproj|c:\\visual\\d\u1EF1 \u00E1n 1 su24\\da1\\th\u01B0 mu\u0323c m\u01A1\u0301i\\nhom1-sd19315-all-in-10\\gui\\bll\\bllquanlysach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1675A9BA-090E-4870-B1F8-B22DD356ECE3}|BLL\\BLL.csproj|solutionrelative:bll\\bllquanlysach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8187E3E-6BED-4161-8724-517A83516A4F}|DAL\\DAL.csproj|c:\\visual\\d\u1EF1 \u00E1n 1 su24\\da1\\th\u01B0 mu\u0323c m\u01A1\u0301i\\nhom1-sd19315-all-in-10\\gui\\dal\\dalquanlysach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8187E3E-6BED-4161-8724-517A83516A4F}|DAL\\DAL.csproj|solutionrelative:dal\\dalquanlysach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,15 +30,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "LapPhieuMuon.cs [Design]",
+              "DocumentMoniker": "C:\\visual\\D\u1EF1 \u00E1n 1 SU24\\DA1\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Nhom1-SD19315-ALL-IN-10\\GUI\\GUI\\LapPhieuMuon.cs",
+              "RelativeDocumentMoniker": "GUI\\LapPhieuMuon.cs",
+              "ToolTip": "C:\\visual\\D\u1EF1 \u00E1n 1 SU24\\DA1\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Nhom1-SD19315-ALL-IN-10\\GUI\\GUI\\LapPhieuMuon.cs [Design]",
+              "RelativeToolTip": "GUI\\LapPhieuMuon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T09:33:43.066Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "DALQuanLySach.cs",
-              "DocumentMoniker": "C:\\visual\\D\u1EF1 \u00E1n 1 SU24\\DA1\\Nhom1-SD19315-ALL-IN-10\\GUI\\DAL\\DALQuanLySach.cs",
+              "DocumentMoniker": "C:\\visual\\D\u1EF1 \u00E1n 1 SU24\\DA1\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Nhom1-SD19315-ALL-IN-10\\GUI\\DAL\\DALQuanLySach.cs",
               "RelativeDocumentMoniker": "DAL\\DALQuanLySach.cs",
-              "ToolTip": "C:\\visual\\D\u1EF1 \u00E1n 1 SU24\\DA1\\Nhom1-SD19315-ALL-IN-10\\GUI\\DAL\\DALQuanLySach.cs",
+              "ToolTip": "C:\\visual\\D\u1EF1 \u00E1n 1 SU24\\DA1\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Nhom1-SD19315-ALL-IN-10\\GUI\\DAL\\DALQuanLySach.cs",
               "RelativeToolTip": "DAL\\DALQuanLySach.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAuwCMAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -42,11 +58,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "BLLQuanLySach.cs",
-              "DocumentMoniker": "C:\\visual\\D\u1EF1 \u00E1n 1 SU24\\DA1\\Nhom1-SD19315-ALL-IN-10\\GUI\\BLL\\BLLQuanLySach.cs",
+              "DocumentMoniker": "C:\\visual\\D\u1EF1 \u00E1n 1 SU24\\DA1\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Nhom1-SD19315-ALL-IN-10\\GUI\\BLL\\BLLQuanLySach.cs",
               "RelativeDocumentMoniker": "BLL\\BLLQuanLySach.cs",
-              "ToolTip": "C:\\visual\\D\u1EF1 \u00E1n 1 SU24\\DA1\\Nhom1-SD19315-ALL-IN-10\\GUI\\BLL\\BLLQuanLySach.cs",
+              "ToolTip": "C:\\visual\\D\u1EF1 \u00E1n 1 SU24\\DA1\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Nhom1-SD19315-ALL-IN-10\\GUI\\BLL\\BLLQuanLySach.cs",
               "RelativeToolTip": "BLL\\BLLQuanLySach.cs",
               "ViewState": "AQIAAHMAAAAAAAAAAAAcwHYAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -54,27 +70,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "QuanLySach.cs",
-              "DocumentMoniker": "C:\\visual\\D\u1EF1 \u00E1n 1 SU24\\DA1\\Nhom1-SD19315-ALL-IN-10\\GUI\\GUI\\QuanLySach.cs",
+              "DocumentMoniker": "C:\\visual\\D\u1EF1 \u00E1n 1 SU24\\DA1\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Nhom1-SD19315-ALL-IN-10\\GUI\\GUI\\QuanLySach.cs",
               "RelativeDocumentMoniker": "GUI\\QuanLySach.cs",
-              "ToolTip": "C:\\visual\\D\u1EF1 \u00E1n 1 SU24\\DA1\\Nhom1-SD19315-ALL-IN-10\\GUI\\GUI\\QuanLySach.cs",
+              "ToolTip": "C:\\visual\\D\u1EF1 \u00E1n 1 SU24\\DA1\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Nhom1-SD19315-ALL-IN-10\\GUI\\GUI\\QuanLySach.cs",
               "RelativeToolTip": "GUI\\QuanLySach.cs",
-              "ViewState": "AQIAANQAAAAAAAAAAAAwwD0AAAAzAAAA",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAAALUAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-22T14:23:52.137Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "QuanLySach.cs [Design]",
-              "DocumentMoniker": "C:\\visual\\D\u1EF1 \u00E1n 1 SU24\\DA1\\Nhom1-SD19315-ALL-IN-10\\GUI\\GUI\\QuanLySach.cs",
+              "DocumentMoniker": "C:\\visual\\D\u1EF1 \u00E1n 1 SU24\\DA1\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Nhom1-SD19315-ALL-IN-10\\GUI\\GUI\\QuanLySach.cs",
               "RelativeDocumentMoniker": "GUI\\QuanLySach.cs",
-              "ToolTip": "C:\\visual\\D\u1EF1 \u00E1n 1 SU24\\DA1\\Nhom1-SD19315-ALL-IN-10\\GUI\\GUI\\QuanLySach.cs [Design]",
+              "ToolTip": "C:\\visual\\D\u1EF1 \u00E1n 1 SU24\\DA1\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Nhom1-SD19315-ALL-IN-10\\GUI\\GUI\\QuanLySach.cs [Design]",
               "RelativeToolTip": "GUI\\QuanLySach.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T12:41:17.321Z"
+              "WhenOpened": "2024-07-22T12:41:17.321Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

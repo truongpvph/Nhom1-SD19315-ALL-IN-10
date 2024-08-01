@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MkYd6FnDC2M=",
+  "dgSpecHash": "3ofGN2fF/5s=",
   "success": true,
-  "projectFilePath": "C:\\visual\\Dự án 1 SU24\\DA1\\Nhom1-SD19315-ALL-IN-10\\GUI\\DTO\\DTO.csproj",
+  "projectFilePath": "C:\\visual\\Dự án 1 SU24\\DA1\\Thư mục mới\\Nhom1-SD19315-ALL-IN-10\\GUI\\DTO\\DTO.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
